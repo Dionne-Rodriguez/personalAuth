@@ -1,0 +1,27 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-color: orange;
+}
+img{
+  height: 200px;
+}
+
+.comment, .delete{
+      border: 1px solid black;
+      margin: 2%;
+      padding: .5%;
+      border-radius: 7%;
+      background-color: black;
+      color: white;
+}
+
+.message{
+  margin: 1%;
+  border-bottom: 1px solid lightgrey;
+  padding: 2%;
+}
+
+#comment{
+  display: block;
+}
